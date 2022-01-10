@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sidikajabar
+- 👋 Hi, I’m Sidik Abdul Jabar
 - 👀 I’m interested in programming and crypto
 - 🌱 I’m currently learning on the internet
 - 💞️ I’m looking to collaborate on life
